@@ -10796,3 +10796,9 @@ header.masthead .post-heading .meta a {
     font-size: 2.25rem;
   }
 }
+.unboldedheader {
+    font-weight: normal;
+}
+.italictext {
+    font-style: italic;
+}
