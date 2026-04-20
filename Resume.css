@@ -56,3 +56,9 @@ a:visited {
 .box3 {
     margin: 50px;
 }
+.unboldedheader {
+    font-weight: normal;
+}
+.italictext {
+    font-style: italic;
+}
